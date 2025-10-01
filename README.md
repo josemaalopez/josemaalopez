@@ -7,20 +7,20 @@ Actualmente estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Web
 ### 💻 Tecnologías que Estoy Aprendiendo
 
 #### Lenguajes de Programación
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 
-Próximos lenguajes:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+Próximos lenguajes:  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://es.wikipedia.org/wiki/Python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
+  
 #### Herramientas y Plataformas
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📚 Áreas de Estudio Actual
 
@@ -83,9 +83,11 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 ### 💡 Sobre Mí
 
-⚡ **Mi motivación:** Me apasiona entender cómo funcionan todo lo que tiene que ver con la tecnología, el funcionamiento de los ordenadores y lo que hay detrás de las pantallas.
-🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas, con gran capacidad de adaptación y aprendizaje continuo. 
-📖 **Hobbies:** Cuando no estoy programando me gusta ir al cine, escuchar música, salir con mis amigos, etc.
+⚡ **Mi motivación:** Me apasiona entender cómo funcionan todo lo que tiene que ver con la tecnología, el funcionamiento de los ordenadores y lo que hay detrás de las pantallas.  
+  
+🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas, con gran capacidad de adaptación y aprendizaje continuo.  
+  
+📖 **Hobbies:** Cuando no estoy programando me gusta ir al cine, escuchar música, salir con mis amigos, etc.  
 
 ---
 
