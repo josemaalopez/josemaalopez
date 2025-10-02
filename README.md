@@ -1,6 +1,5 @@
-# ¡Hola! Soy Josema 👋
-
-## 🎓 Estudiante de DAW | Apasionado por el mundo de la informática
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=&color=F7F7F7&repeat=false&width=547&height=120&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=&color=F7F7F7&vCenter=true&repeat=false&width=670&height=28&lines=%F0%9F%8E%93+Estudiante+de+DAW+%7C+Aprendiendo+cada+d%C3%ADa)](https://git.io/typing-svg)
 
 Actualmente estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)**, donde estoy adquiriendo conocimientos sólidos en desarrollo web y tecnologías emergentes. Me encanta aprender y enfrentar nuevos desafíos que me permitan crecer como desarrollador.
 
@@ -106,4 +105,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 1/10/2025*
+*Última actualización: 2/10/2025*
