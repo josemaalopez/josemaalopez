@@ -21,7 +21,7 @@ Próximos lenguajes:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-### 📚 Áreas de Estudio Actual
+### 📚 Áreas de Estudio
 
 - **🖥️ Virtualización:** Máquinas virtuales y entornos de desarrollo aislados
 - **🌐 Desarrollo Web:** Frontend con HTML/CSS y lógica de programación
@@ -75,18 +75,19 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 - [ ] **Virtualización avanzada**
 - [ ] **Patrones de diseño**
 
-### 📫 ¡Conectemos!
+### 📫 ¡Contáctame!
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://instagram.com/josemaalopez)
 [![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/igjosemaalopez)
 [![E-mail](https://img.shields.io/badge/Email-red)](mailto:jmlopez06montesinos@gmail.com)
 
 ### 💡 Sobre Mí
 
-⚡ **Mi motivación:** Me apasiona entender cómo funcionan todo lo que tiene que ver con la tecnología, el funcionamiento de los ordenadores y lo que hay detrás de las pantallas.  
+⚡ **Mi motivación:** Me apasiona entender y aprender sobre la tecnología, el funcionamiento de los ordenadores y lo que hay detrás de las pantallas.  
   
-🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas, con gran capacidad de adaptación y aprendizaje continuo.  
+🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas en respuesta a las exigencias de la empresa para la que trabaje, con gran capacidad de adaptación y aprendizaje continuo.  
   
-📖 **Hobbies:** Cuando no estoy programando me gusta ir al cine, escuchar música, salir con mis amigos, etc.  
+📖 **Hobbies:** Fuera del mundo del desarrollo web me gusta ir al cine, escuchar música, salir con mis amigos, etc.  
 
 ---
 
@@ -105,4 +106,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 3/10/2025*
+*Última actualización: 6/10/2025*
