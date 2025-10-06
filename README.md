@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="" width="1200" height="200"/>
+  <img src="./banner.webp" alt="" width="1200" height="200">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=547&height=120&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
