@@ -110,4 +110,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 8/10/2025*
+*Última actualización: 6/11/2025*
