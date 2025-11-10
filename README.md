@@ -104,10 +104,11 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 ---
 
-⭐ **¿Te gustan mis proyectos?** ¡No dudes en darles una estrella y seguir mi progreso!
+⭐ **¿Te gustan mis proyectos?** ¡No dudes en darles una estrella y seguir mi progreso!  
+👤 Mi cuenta personal de proyectos prueba es [https://github.com/jmlopez-pruebas](https://github.com/jmlopez-pruebas)
 
 ---
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 6/11/2025*
+*Última actualización: 10/11/2025*
