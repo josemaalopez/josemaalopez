@@ -30,7 +30,6 @@ Próximos lenguajes:
 - **🖥️ Virtualización:** Máquinas virtuales y entornos de desarrollo aislados
 - **🌐 Desarrollo Web:** Frontend con HTML/CSS y lógica de programación
 - **☕ Programación en Java:** POO, estructuras de datos y algoritmos
-- **🐍 Python:** Scripting, automatización y fundamentos de programación
 - **🗄️ Bases de Datos:** SQL y diseño de bases de datos relacionales
 
 ### 📊 Mi Progreso en GitHub
@@ -87,11 +86,11 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 ### 💡 Sobre Mí
 
-⚡ **Mi motivación:** Me apasiona entender y aprender sobre la tecnología, el funcionamiento de los ordenadores y lo que hay detrás de las pantallas.  
+⚡ **Mi motivación:** Me apasiona la tecnología y entender cómo funcionan los ordenadores, así como todo lo que ocurre detrás de las pantallas.
   
 🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas en respuesta a las exigencias de la empresa para la que trabaje, con gran capacidad de adaptación y aprendizaje continuo.  
   
-📖 **Hobbies:** Fuera del mundo del desarrollo web me gusta ir al cine, escuchar música, salir con mis amigos, etc.  
+📖 **Hobbies:** Fuera del mundo del desarrollo web me gusta viajar, escuchar música, pasar tiempo con mis seres queridos, etc.  
 
 ---
 
@@ -111,4 +110,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 10/11/2025*
+*Última actualización: 27/11/2025*
