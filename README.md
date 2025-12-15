@@ -80,9 +80,9 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 ### 📫 ¡Contáctame!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://instagram.com/josemaalopez)
-[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/igjosemaalopez)
-[![E-mail](https://img.shields.io/badge/Email-red)](mailto:jmlopez06montesinos@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/josemaalopez)
+[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/igjosemaalopez)
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:jmlopez06montesinos@gmail.com)
 
 ### 💡 Sobre Mí
 
@@ -110,4 +110,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 27/11/2025*
+*Última actualización: 15/12/2025*
