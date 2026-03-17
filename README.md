@@ -74,7 +74,7 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 - [x] **Fundamentos de Java y POO**
 - [x] **HTML5 y CSS3 básico**
 - [x] **Bases de datos SQL**
-- [ ] **JavaScript ES6+**
+- [x] **JavaScript ES6+**
 - [ ] **Virtualización avanzada**
 - [ ] **Patrones de diseño**
 
@@ -99,7 +99,7 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 - [ ] Aprender Spring Boot (Java)
 - [ ] Desarrollar mi primera API REST
 - [ ] Crear una aplicación web completa
-- [ ] Profundizar en cybersecurity
+- [ ] Profundizar en ciberseguridad
 
 ---
 
@@ -110,4 +110,4 @@ Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo
 
 "El comienzo es la parte más importante del trabajo." - Platón
 
-*Última actualización: 15/12/2025*
+*Última actualización: 17/03/2025*
