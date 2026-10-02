@@ -110,5 +110,5 @@ Actualmente me encuentro consolidando los cimientos de la programación moderna 
 <p align="center">
   <i>"El comienzo es la parte más importante del trabajo." — Platón</i><br><br>
   <small>👤 Repositorio de pruebas: <a href="https://github.com/jmlopez-pruebas">@jmlopez-pruebas</a></small><br>
-  <small>Última actualización: 17/03/2025</small>
+  <small>Última actualización: 02/10/2026</small>
 </p>
