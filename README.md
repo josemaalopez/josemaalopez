@@ -2,7 +2,7 @@
   <img src="./banner.webp" alt="Profile Banner" width="1200" height="200">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=1000&height=80&center=true&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=1000&height=80&center=true&lines=%C2%A1Hey!+I'm+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 Web Development Student | Passionate about AI & Cybersecurity</h3>
 
