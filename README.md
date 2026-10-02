@@ -1,113 +1,114 @@
 <p align="center">
-  <img src="./banner.webp" alt="" width="1200" height="200">
+  <img src="./banner.webp" alt="Banner Perfil" width="1200" height="200">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=547&height=120&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
-### 🎓 Estudiante de DAW | Aprendiendo cada día
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=1000&height=80&center=true&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Actualmente estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)**, donde estoy adquiriendo conocimientos sólidos en desarrollo web y tecnologías emergentes. Me encanta aprender y enfrentar nuevos desafíos que me permitan crecer como desarrollador.
+<h3 align="center">🚀 Estudiante de DAW | Apasionado por la IA y la Ciberseguridad</h3>
 
-### 💻 Tecnologías que Estoy Aprendiendo
+<p align="center">
+  Actualmente me encuentro cursando el <strong>Grado Superior en Desarrollo de Aplicaciones Web (DAW)</strong>. Poseo un perfil proactivo, fuertemente orientado al aprendizaje continuo y a la resolución de problemas mediante tecnologías modernas. Mi objetivo es dominar el desarrollo Full-Stack, integrando soluciones de <strong>Inteligencia Artificial</strong> y aplicando principios de <strong>Ciberseguridad</strong> para crear software inteligente, sólido y seguro.
+</p>
 
-#### Lenguajes de Programación
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
+---
 
-Próximos lenguajes:  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://es.wikipedia.org/wiki/Python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
-  
-#### Herramientas y Plataformas
-[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### 💻 Stack Tecnológico y Herramientas
 
-### 📚 Áreas de Estudio
+**Lenguajes de Programación:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <!-- Iconos limpios y modernos que no fallan al cargar -->
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,python" alt="My Skills" />
+  </a>
+</p>
 
-- **🖥️ Virtualización:** Máquinas virtuales y entornos de desarrollo aislados
-- **🌐 Desarrollo Web:** Frontend con HTML/CSS y lógica de programación
-- **☕ Programación en Java:** POO, estructuras de datos y algoritmos
-- **🗄️ Bases de Datos:** SQL y diseño de bases de datos relacionales
+**Herramientas, Entornos y Plataformas:**
+<p align="left">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-### 📊 Mi Progreso en GitHub
+### 📚 Áreas de Especialización
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josemaalopez&show_icons=true&theme=radical&hide_title=true)
+- 🖥️ **Virtualización & Sistemas:** Despliegue y administración de máquinas virtuales para entornos de desarrollo aislados.
+- 🌐 **Desarrollo Web Frontend:** Maquetación estructurada con HTML5, hojas de estilo CSS3 y bases de interactividad.
+- ☕ **Backend & Lógica:** Fundamentos sólidos de Programación Orientada a Objetos (POO), estructuras de datos y algoritmos en Java.
+- 🛡️ **Seguridad & IA (En progreso):** Interés activo en arquitecturas seguras (*Security by Design*), prevención de vulnerabilidades e integración de modelos de Inteligencia Artificial.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josemaalopez&layout=compact&theme=radical&hide_title=true)
+---
 
-### 🎯 Proyectos Académicos
+### 📊 Estadísticas de GitHub
 
-Actualmente no estoy inmerso en ningún proyecto académico, estamos aprendiendo los cimientos de la programación moderna.
-<!-- 
+<p align="center">
+  <a href="https://github.com/josemaalopez">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemaalopez&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemaalopez&layout=compact&theme=radical&hide_title=true"/>
+  </a>
+</p>
 
-#### [](https://github.com/tu-usuario/proyecto-java)
-🔧 **Tecnologías:**  
-📝 **Descripción:**   
-⭐ **Características:**
-- 
-- 
-- 
+---
 
-#### [Proyecto Web - Portfolio Personal](https://github.com/tu-usuario/portfolio-web)
-🔧 **Tecnologías:** 
-📝 **Descripción:** 
-🚀 **Características:**
-- 
-- 
-- 
+### 🎯 Trayectoria Académica y Proyectos
 
-#### [Scripts Python - Automatización](https://github.com/tu-usuario/scripts-python)
-🔧 **Tecnologías:**
-📝 **Descripción:** 
-🛠️ **Scripts incluidos:**
-- 
-- 
-- 
+Actualmente me encuentro consolidando los cimientos de la programación moderna y las buenas prácticas de desarrollo. A medida que avance en el ciclo formativo, iré documentando y compartiendo aquí mis proyectos más destacados.
 
+<!-- Plantilla reservada para futuros proyectos:
+#### [Nombre del Proyecto (Web/App)](#)
+- 🔧 **Tecnologías:** Java, HTML, CSS...
+- 📝 **Descripción:** Breve resumen del objetivo del proyecto.
+- ⭐ **Características clave:**
+  - Característica principal 1
+  - Característica principal 2
 -->
 
-### 🌱 Actualmente Estoy Aprendiendo
+### 🌱 Roadmap de Aprendizaje (Ciclo DAW + Especialización)
 
-- [x] **Fundamentos de Java y POO**
-- [x] **HTML5 y CSS3 básico**
-- [x] **Bases de datos SQL**
-- [x] **JavaScript ES6+**
-- [ ] **Virtualización avanzada**
-- [ ] **Patrones de diseño**
+**✅ 1º Año - Base superada:**
+- [x] **Programación:** Fundamentos de Java, POO y Algoritmia.
+- [x] **Bases de Datos:** Diseño relacional, normalización y SQL.
+- [x] **Lenguajes de Marcas:** HTML5, CSS3, XML y JSON.
+- [x] **Sistemas Informáticos / Entornos:** Linux, Git y Virtualización.
 
-### 📫 ¡Contáctame!
-
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/josemaalopez)
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/igjosemaalopez)
-[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:jmlopez06montesinos@gmail.com)
-
-### 💡 Sobre Mí
-
-⚡ **Mi motivación:** Me apasiona la tecnología y entender cómo funcionan los ordenadores, así como todo lo que ocurre detrás de las pantallas.
-  
-🎯 **Objetivo:** Convertirme en un desarrollador full-stack competente, capaz de analizar problemas complejos y desarrollar soluciones prácticas en respuesta a las exigencias de la empresa para la que trabaje, con gran capacidad de adaptación y aprendizaje continuo.  
-  
-📖 **Hobbies:** Fuera del mundo del desarrollo web me gusta viajar, escuchar música, pasar tiempo con mis seres queridos, etc.  
+**🚀 2º Año - Especialización Web & Intereses Propios:**
+- [ ] **Desarrollo Web en Entorno Cliente (DWEC):** DOM, AJAX, Fetch API y Frameworks/Librerías JS (React, Angular o Vue).
+- [ ] **Desarrollo Web en Entorno Servidor (DWES):** Creación de Backend, Arquitectura MVC, APIs REST y BBDD.
+- [ ] **Diseño de Interfaces Web (DIW):** UI/UX, Diseño Responsive, Preprocesadores y Frameworks CSS.
+- [ ] **Despliegue de Aplicaciones Web (DAW):** Servidores Web, Docker, Cloud Computing y FTP.
+- [ ] **Ciberseguridad Web:** Principios de seguridad aplicativa (OWASP Top 10) y fortificación de servidores.
+- [ ] **Inteligencia Artificial:** Integración de APIs de IA (LLMs) en aplicaciones web.
+- [ ] **Proyecto Final & FCT:** Desarrollo de una aplicación web completa y prácticas en empresa.
 
 ---
 
-### 🎓 Próximos Retos
+### 💡 Un poco más sobre mí
 
-- [ ] Aprender Spring Boot (Java)
-- [ ] Desarrollar mi primera API REST
-- [ ] Crear una aplicación web completa
-- [ ] Profundizar en ciberseguridad
+- ⚡ **Motivación:** Me fascina el poder de la Inteligencia Artificial para automatizar y resolver problemas complejos, así como la necesidad crítica de proteger estos sistemas y los datos de los usuarios. Mi pasión reside en la intersección entre la innovación tecnológica (IA) y la construcción de entornos impenetrables, garantizando que el avance tecnológico vaya siempre de la mano de la seguridad.
+- 🎯 **Objetivo Profesional:** Convertirme en un desarrollador Full-Stack con especialización en Ciberseguridad e integración de Inteligencia Artificial. Busco crear software que no solo sea eficiente e inteligente, sino también robusto y seguro desde su concepción (*Security by Design*), aportando un valor diferencial y de total confianza a los proyectos en los que participe.
+- 🌍 **Intereses:** Fuera del IDE, disfruto descubriendo nuevas culturas al viajar, explorando música nueva y compartiendo tiempo de calidad con mi círculo cercano.
 
----
+### 📫 Conecta conmigo
 
-⭐ **¿Te gustan mis proyectos?** ¡No dudes en darles una estrella y seguir mi progreso!  
-👤 Mi cuenta personal de proyectos prueba es [https://github.com/jmlopez-pruebas](https://github.com/jmlopez-pruebas)
+¿Tienes algún proyecto en mente, una oportunidad o simplemente quieres hablar de tecnología? ¡Escríbeme!
 
----
+<p align="center">
+  <a href="https://instagram.com/josemaalopez" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/igjosemaalopez" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:jmlopez06montesinos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-"El comienzo es la parte más importante del trabajo." - Platón
+<br>
 
-*Última actualización: 17/03/2025*
+<p align="center">
+  <i>"El comienzo es la parte más importante del trabajo." — Platón</i><br><br>
+  <small>👤 Repositorio de pruebas: <a href="https://github.com/jmlopez-pruebas">@jmlopez-pruebas</a></small><br>
+  <small>Última actualización: 17/03/2025</small>
+</p>
