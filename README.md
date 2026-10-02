@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="./banner.webp" alt="Banner Perfil" width="1200" height="200">
+  <img src="./banner.webp" alt="Profile Banner" width="1200" height="200">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2100&pause=&color=F7F7F7&repeat=&width=1000&height=80&center=true&lines=%C2%A1Hola!+Soy+Josema+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Estudiante de DAW | Apasionado por la IA y la Ciberseguridad</h3>
+<h3 align="center">🚀 Web Development Student | Passionate about AI & Cybersecurity</h3>
 
 <p align="center">
-  Actualmente me encuentro cursando el <strong>Grado Superior en Desarrollo de Aplicaciones Web (DAW)</strong>. Poseo un perfil proactivo, fuertemente orientado al aprendizaje continuo y a la resolución de problemas mediante tecnologías modernas. Mi objetivo es dominar el desarrollo Full-Stack, integrando soluciones de <strong>Inteligencia Artificial</strong> y aplicando principios de <strong>Ciberseguridad</strong> para crear software inteligente, sólido y seguro.
+  I am currently studying a <strong>Higher Degree in Web Application Development (DAW)</strong>. I have a proactive profile, strongly oriented towards continuous learning and problem-solving using modern technologies. My goal is to master Full-Stack development, integrating <strong>Artificial Intelligence</strong> solutions and applying <strong>Cybersecurity</strong> principles to create smart, solid, and secure software.
 </p>
 
 ---
 
-### 💻 Stack Tecnológico y Herramientas
+### 💻 Tech Stack & Tools
 
-**Lenguajes de Programación:**
+**Programming Languages:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Iconos limpios y modernos que no fallan al cargar -->
+    <!-- Clean and modern icons that don't fail to load -->
     <img src="https://skillicons.dev/icons?i=java,html,css,js,python" alt="My Skills" />
   </a>
 </p>
 
-**Herramientas, Entornos y Plataformas:**
+**Tools, Environments & Platforms:**
 <p align="left">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
@@ -31,16 +31,16 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-### 📚 Áreas de Especialización
+### 📚 Areas of Expertise
 
-- 🖥️ **Virtualización & Sistemas:** Despliegue y administración de máquinas virtuales para entornos de desarrollo aislados.
-- 🌐 **Desarrollo Web Frontend:** Maquetación estructurada con HTML5, hojas de estilo CSS3 y bases de interactividad.
-- ☕ **Backend & Lógica:** Fundamentos sólidos de Programación Orientada a Objetos (POO), estructuras de datos y algoritmos en Java.
-- 🛡️ **Seguridad & IA (En progreso):** Interés activo en arquitecturas seguras (*Security by Design*), prevención de vulnerabilidades e integración de modelos de Inteligencia Artificial.
+- 🖥️ **Virtualization & Systems:** Deployment and management of virtual machines for isolated development environments.
+- 🌐 **Frontend Web Development:** Structured layouts with HTML5, CSS3 stylesheets, and interactivity basics.
+- ☕ **Backend & Logic:** Solid foundations in Object-Oriented Programming (OOP), data structures, and algorithms in Java.
+- 🛡️ **Security & AI (In progress):** Active interest in secure architectures (*Security by Design*), vulnerability prevention, and integrating Artificial Intelligence models.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/josemaalopez">
@@ -51,47 +51,47 @@
 
 ---
 
-### 🎯 Trayectoria Académica y Proyectos
+### 🎯 Academic Journey & Projects
 
-Actualmente me encuentro consolidando los cimientos de la programación moderna y las buenas prácticas de desarrollo. A medida que avance en el ciclo formativo, iré documentando y compartiendo aquí mis proyectos más destacados.
+I am currently consolidating the foundations of modern programming and good development practices. As I progress in my degree, I will document and share my most notable projects here.
 
-<!-- Plantilla reservada para futuros proyectos:
-#### [Nombre del Proyecto (Web/App)](#)
-- 🔧 **Tecnologías:** Java, HTML, CSS...
-- 📝 **Descripción:** Breve resumen del objetivo del proyecto.
-- ⭐ **Características clave:**
-  - Característica principal 1
-  - Característica principal 2
+<!-- Template reserved for future projects:
+#### [Project Name (Web/App)](#)
+- 🔧 **Technologies:** Java, HTML, CSS...
+- 📝 **Description:** Brief summary of the project's goal.
+- ⭐ **Key features:**
+  - Main feature 1
+  - Main feature 2
 -->
 
-### 🌱 Roadmap de Aprendizaje (Ciclo DAW + Especialización)
+### 🌱 Learning Roadmap (DAW Degree + Specialization)
 
-**✅ 1º Año - Base superada:**
-- [x] **Programación:** Fundamentos de Java, POO y Algoritmia.
-- [x] **Bases de Datos:** Diseño relacional, normalización y SQL.
-- [x] **Lenguajes de Marcas:** HTML5, CSS3, XML y JSON.
-- [x] **Sistemas Informáticos / Entornos:** Linux, Git y Virtualización.
+**✅ 1st Year - Foundations Completed:**
+- [x] **Programming:** Java basics, OOP, and Algorithms.
+- [x] **Databases:** Relational design, normalization, and SQL.
+- [x] **Markup Languages:** HTML5, CSS3, XML, and JSON.
+- [x] **Computer Systems / Environments:** Linux, Git, and Virtualization.
 
-**🚀 2º Año - Especialización Web & Intereses Propios:**
-- [ ] **Desarrollo Web en Entorno Cliente (DWEC):** DOM, AJAX, Fetch API y Frameworks/Librerías JS (React, Angular o Vue).
-- [ ] **Desarrollo Web en Entorno Servidor (DWES):** Creación de Backend, Arquitectura MVC, APIs REST y BBDD.
-- [ ] **Diseño de Interfaces Web (DIW):** UI/UX, Diseño Responsive, Preprocesadores y Frameworks CSS.
-- [ ] **Despliegue de Aplicaciones Web (DAW):** Servidores Web, Docker, Cloud Computing y FTP.
-- [ ] **Ciberseguridad Web:** Principios de seguridad aplicativa (OWASP Top 10) y fortificación de servidores.
-- [ ] **Inteligencia Artificial:** Integración de APIs de IA (LLMs) en aplicaciones web.
-- [ ] **Proyecto Final & FCT:** Desarrollo de una aplicación web completa y prácticas en empresa.
+**🚀 2nd Year - Web Specialization & Personal Interests:**
+- [ ] **Client-Side Web Development:** DOM, AJAX, Fetch API, and JS Frameworks/Libraries (React, Angular, or Vue).
+- [ ] **Server-Side Web Development:** Backend creation, MVC Architecture, REST APIs, and Databases.
+- [ ] **Web Interface Design:** UI/UX, Responsive Design, Preprocessors, and CSS Frameworks.
+- [ ] **Web Application Deployment:** Web Servers, Docker, Cloud Computing, and FTP.
+- [ ] **Web Cybersecurity:** Application security principles (OWASP Top 10) and server hardening.
+- [ ] **Artificial Intelligence:** Integration of AI APIs (LLMs) into web applications.
+- [ ] **Final Project & Internship:** Development of a complete web application and company internship.
 
 ---
 
-### 💡 Un poco más sobre mí
+### 💡 A bit more about me
 
-- ⚡ **Motivación:** Me fascina el poder de la Inteligencia Artificial para automatizar y resolver problemas complejos, así como la necesidad crítica de proteger estos sistemas y los datos de los usuarios. Mi pasión reside en la intersección entre la innovación tecnológica (IA) y la construcción de entornos impenetrables, garantizando que el avance tecnológico vaya siempre de la mano de la seguridad.
-- 🎯 **Objetivo Profesional:** Convertirme en un desarrollador Full-Stack con especialización en Ciberseguridad e integración de Inteligencia Artificial. Busco crear software que no solo sea eficiente e inteligente, sino también robusto y seguro desde su concepción (*Security by Design*), aportando un valor diferencial y de total confianza a los proyectos en los que participe.
-- 🌍 **Intereses:** Fuera del IDE, disfruto descubriendo nuevas culturas al viajar, explorando música nueva y compartiendo tiempo de calidad con mi círculo cercano.
+- ⚡ **Motivation:** I am fascinated by the power of Artificial Intelligence to automate and solve complex problems, as well as the critical need to protect these systems and user data. My passion lies at the intersection of technological innovation (AI) and building impenetrable environments, ensuring that technological progress always goes hand in hand with security.
+- 🎯 **Professional Goal:** To become a Full-Stack developer specializing in Cybersecurity and Artificial Intelligence integration. I aim to create software that is not only efficient and smart but also robust and secure from its conception (*Security by Design*), providing differential value and total trust to the projects I participate in.
+- 🌍 **Interests:** Outside the IDE, I enjoy discovering new cultures by traveling, exploring new music, and sharing quality time with my close circle.
 
-### 📫 Conecta conmigo
+### 📫 Connect with me
 
-¿Tienes algún proyecto en mente, una oportunidad o simplemente quieres hablar de tecnología? ¡Escríbeme!
+Do you have a project in mind, an opportunity, or just want to talk about tech? Drop me a message!
 
 <p align="center">
   <a href="https://instagram.com/josemaalopez" target="_blank">
@@ -108,7 +108,7 @@ Actualmente me encuentro consolidando los cimientos de la programación moderna 
 <br>
 
 <p align="center">
-  <i>"El comienzo es la parte más importante del trabajo." — Platón</i><br><br>
-  <small>👤 Repositorio de pruebas: <a href="https://github.com/jmlopez-pruebas">@jmlopez-pruebas</a></small><br>
-  <small>Última actualización: 02/10/2026</small>
+  <i>"The beginning is the most important part of the work." — Platón</i><br><br>
+  <small>👤 Test repository: <a href="https://github.com/jmlopez-pruebas">@jmlopez-pruebas</a></small><br>
+  <small>Last updated: 02/10/2026</small>
 </p>
